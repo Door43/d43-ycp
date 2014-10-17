@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ycp:home|Door43 (ycp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ycp|d43-ycp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ycp/archive/master.zip|d43-ycp.zip]]
+
+**Recent Changes**
+{{changes>ns = ycp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ycp|Ethnologue data]]
+
